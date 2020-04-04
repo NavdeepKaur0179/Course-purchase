@@ -1,3 +1,9 @@
+
+![Alt_text](public/ProjectImage.png)
+
+
+This project is a course buy app, in which single click on item selects the course and add its price to the total and another click deselect it and decrease the corresponding amount from the total.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
